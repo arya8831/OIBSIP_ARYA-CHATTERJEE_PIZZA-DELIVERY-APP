@@ -6,11 +6,11 @@ After download or clone run `npm install` OR `yarn install` to create node_modul
 ## to start the server use  `npm start` OR `yarn dev`
 
 ##Yarn cli commands
-    yarn add.
-    yarn init.
-    yarn install.
-    yarn publish.
-    yarn remove.
+-    yarn add.
+-    yarn init.
+-    yarn install.
+-    yarn publish.
+-    yarn remove.
 
 This is a Full stack Pizza Delivery Web App .
 
