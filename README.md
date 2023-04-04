@@ -1,7 +1,16 @@
 # OIBSIP_ARYA-CHATTERJEE_PIZZA-DELIVERY-APP
 
 ## Installation 
-After download or clone run `npm install` OR `yarn install` to install all the dependancies.
+After download or clone run `npm install` OR `yarn install` to create node_modules file and install all the dependancies.
+
+## to start the server use  `npm start` OR `yarn dev`
+
+##Yarn cli commands
+    yarn add.
+    yarn init.
+    yarn install.
+    yarn publish.
+    yarn remove.
 
 This is a Full stack Pizza Delivery Web App .
 
